@@ -1,0 +1,6 @@
+name =input("Enter your Name:")
+score=input("Enter your Score:")
+department=input("Enter your Department:")
+print (name)
+print (score)
+print (department)
